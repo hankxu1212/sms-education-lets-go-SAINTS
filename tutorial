@@ -4,7 +4,7 @@ Addition
 Subtraction
 2-1=?Think of it this way:I have2apples,I give u1apple,now I have1apple left.4-2=?Think I have4apples,I give u2apples,now I have2apples.4-2=2
 Multiplication
-Multiplication is adding something to itself.2*3=?Think2being added to itself3times.2*3=6
+Multiplication is adding something to itself.2*3=?Think2being added to itself 3 dtimes. 2*3=6
 Divison
 Think of division as dividing into groups.15/3=?Suppose u have15pears.U divide them into groups of3.U’ll get 5 groups.15/3=5 
 Fractions
@@ -18,15 +18,19 @@ Prime factorization is expressing a number as a product of prime numbers.Start t
 PFc
 After u find a prime factor.Divide the original number by it.Then repeat the process till you reach a prime number.To see an example reply PFe
 PFe
-
+Suppose72,we first divide it by2,then2,2,3,3.Therefore72=2*2*2*3*3
 Finding all factors 
 To find all factors of an integer,first,find the prime factorization.Then find all combinations of all prime factors.Multiply all the numbers in a combination. 
 GCF
 To find the greatest common factor between two numbers,we first find the prime factorization of the two.To continue reply GCFc
 GCFc
-Then we find the common 
+Then we find the all the common factors they have and multiply them all together.
+GCFe
+GCF(7,21)=?We first figure out the prime factorization:7=7,21=3*7.Then we find the common factors,which is7in this case.GCF(7,21)=7
 LCM
-
+LCM(a,b)=a*b/GCF(a,b)
+LCMe
+LCM(7,21)=7*21/GCF(6,210
 Adding fractions
 To add fraction,u first need to make the denominators the same. 
 
