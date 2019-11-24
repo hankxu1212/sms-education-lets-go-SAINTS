@@ -30,7 +30,13 @@ GCF(7,21)=?We first figure out the prime factorization:7=7,21=3*7.Then we find t
 LCM
 LCM(a,b)=a*b/GCF(a,b)
 LCMe
-LCM(7,21)=7*21/GCF(6,210
+LCM(7,21)=7*21/GCF(7,21)=7*21/7=21
 Adding fractions
-To add fraction,u first need to make the denominators the same. 
+First u need to make sure that the denominators are the same.To do this,we find the LCM of the denominators.To continue reply Fc
+Fc
+After you have found the LCM,multiply the numerators by LCM/original denominators.Add the new numerators together.Added fraction=final numerator/LCM
+Combining Like Terms
+Combining like terms work just like addition and subtraction.Find the same variable with the same power and add their coefficient together.To continue replyCLc
+CLc
+  
 
